@@ -1,7 +1,7 @@
 ---
 api_name: Xclounkit234X
 api_version: "2.0"
-author: "xclounkit23x@gmail.com"
+author: "xclounkit234x@gmail.com"
 copyright: "© Xclounkit234X 2026"
 license: "CC‑BY‑4.0"
 last_updated: "2026‑11‑04"
